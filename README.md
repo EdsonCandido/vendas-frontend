@@ -5,6 +5,8 @@ Sistema intermediário de vendas B2B e B2C.
 ## Requirements
 
 - [] O Sistema deve ter login e senha
+- [] sistema deve persistir essas informações
+- [] sistema terá controle de usuários logados.
 
 ## Getting Started
 
