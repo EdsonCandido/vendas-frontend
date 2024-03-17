@@ -21,7 +21,6 @@
     "react-toastify": "^10.0.4",
     "styled-components": "^6.1.8",
     "zustand": "^4.5.2",
-    "devextreme-react": "23.2-stable"
   },
   "devDependencies": {
     "@types/react": "^18.2.56",
